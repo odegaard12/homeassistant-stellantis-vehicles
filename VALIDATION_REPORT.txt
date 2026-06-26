@@ -1,0 +1,15 @@
+Audit Report - 7 Days Soak Test
+Audited paths: /homeassistant/stellantis-development/
+Status: PR #492 and #491 stable. Sensor flip-flop resolved.
+---
+Logs de validación:
+-rwx------    1 root     root          8413 Jun 17 08:43 analyze_stale_data_v2.py
+drwxr-xr-x    3 root     root          4096 Jun 17 09:16 pr-492-review-20260617_091643
+drwxr-xr-x    3 root     root          4096 Jun 17 10:17 issue-489-audit-20260617_101724
+lrwxrwxrwx    1 root     root            76 Jun 17 10:17 issue-489-latest.txt -> /config/stellantis-development/issue-489-audit-20260617_101724/AUDIT_489.txt
+-rw-r--r--    1 root     root          5393 Jun 17 14:45 github-activity-20260617_144501.txt
+drwxr-xr-x    3 root     root          4096 Jun 18 15:42 pr-492-retest-20260618_154256
+drwxr-xr-x    3 root     root          4096 Jun 18 15:45 pr-492-retest-v2-20260618_154547
+-rw-r--r--    1 root     root        163324 Jun 19 08:57 daily-review-20260619_085715.txt
+drwxr-xr-x    2 root     root          4096 Jun 26 04:15 stale-data-validation
+drwxr-xr-x    2 root     root          4096 Jun 26 04:15 soak-validation
